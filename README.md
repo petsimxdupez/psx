@@ -1,2 +1,2 @@
 # psx
-Repository that holds a free trade scam and dupe script.
+Repository that holds a free trade scam and dupe script. || Loadstring: ...
